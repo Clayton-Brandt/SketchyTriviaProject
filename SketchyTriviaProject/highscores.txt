@@ -1,0 +1,10 @@
+YouCannotWin,7392
+HungryHippo,58
+Bro,50
+Joe,48
+Animole,43
+Phone,42
+Bone,40
+Frog,38
+Juanita,35
+Poopy,32
